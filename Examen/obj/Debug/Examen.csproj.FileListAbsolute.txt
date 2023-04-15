@@ -1,0 +1,11 @@
+C:\Users\Kvssa\Desktop\Tarea\Analisis y diseno de algoritmos\Examen final\Examen final\Examen\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\Kvssa\Desktop\Tarea\Analisis y diseno de algoritmos\Examen final\Examen final\Examen\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\Kvssa\Desktop\Tarea\Analisis y diseno de algoritmos\Examen final\Examen final\Examen\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\Kvssa\Desktop\Tarea\Analisis y diseno de algoritmos\Examen final\Examen final\Examen\Examen\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\Kvssa\Desktop\Tarea\Analisis y diseno de algoritmos\Examen final\Examen final\Examen\Examen\Examen\obj\Debug\Examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kvssa\Desktop\Tarea\Analisis y diseno de algoritmos\Examen final\Examen final\Examen\Examen\Examen\obj\Debug\Examen.Form1.resources
+C:\Users\Kvssa\Desktop\Tarea\Analisis y diseno de algoritmos\Examen final\Examen final\Examen\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\Kvssa\Desktop\Tarea\Analisis y diseno de algoritmos\Examen final\Examen final\Examen\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.cache
+C:\Users\Kvssa\Desktop\Tarea\Analisis y diseno de algoritmos\Examen final\Examen final\Examen\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Kvssa\Desktop\Tarea\Analisis y diseno de algoritmos\Examen final\Examen final\Examen\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\Kvssa\Desktop\Tarea\Analisis y diseno de algoritmos\Examen final\Examen final\Examen\Examen\Examen\obj\Debug\Examen.pdb
